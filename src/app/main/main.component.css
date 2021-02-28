@@ -1,0 +1,12 @@
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+ul {
+    list-style-type: none;
+  }
+
+
+  
